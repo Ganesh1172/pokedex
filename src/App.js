@@ -28,7 +28,7 @@ function App() {
     let data = await getAllPokemon(nextUrl);
     await loadingPokemon(data.results);
     setNextUrl(data.next);
-    setPrevUrl(data.Provious);
+    setPrevUrl(data.previous);
     setLoading(false);
   };
 
