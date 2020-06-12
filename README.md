@@ -8,7 +8,7 @@
 	<img
      width= "800px"
 		alt="Pokedox Image"
-		src="src/Image/Pokedox.png">
+		src="src/Image/pokedox.png">
 </h1>  
 <h2>Introduction</h2>
 <p>Build pokemon information card using Pokemon API.</p>
