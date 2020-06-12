@@ -40,7 +40,7 @@ $ npm start
 
 ## Support
 
-Show some :heart: and star the repo to support the project. Demo version:- 
+Show some :heart: and star the repo to support the project. Demo version:- pokedox-card.netlify.app
 
 
 
