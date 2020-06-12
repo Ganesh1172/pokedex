@@ -7,8 +7,8 @@
 <h1 align="center">
 	<img
      width= "800px"
-		alt="Collab Image"
-		src="src/Image/linkedIn_SignIn.jpg">
+		alt="Pokedox Image"
+		src="src/Image/Pokedox.png">
 </h1>  
 <h2>Introduction</h2>
 <p>Build pokemon information card using Pokemon API.</p>
@@ -18,6 +18,8 @@
 <li>Reactjs</li>
 <li>Pokemon API</li>
 </ul>
+
+<h2>API used</h2>
 
 [Pokemon API](https://pokeapi.co/ "pokeapi")
 
